@@ -437,7 +437,6 @@ td {
 html,
 body {
   height: 100%;
-  background: #f0f0f0;
 }
 .container {
   position: relative;
@@ -1997,7 +1996,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #608f1b;
+  background: #409408;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3164,4 +3163,9 @@ img:hover {
   .post-body {
     text-align: justify;
   }
+}
+html,
+body {
+  height: 100%;
+  background: #f0f0f0;
 }
